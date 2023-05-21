@@ -3,9 +3,7 @@
 opa td bem?
 este é um arquivo provisorio apenas para minhas aulas de programação.
 
-# Personagens
+# Equipamentos
 
-## Carinha Certa
-\o/
- I
-/\
+## Espadinha
+o--|==>
