@@ -7,3 +7,6 @@ este é um arquivo provisorio apenas para minhas aulas de programação.
 
 ## Espadinha
 o--|==>
+
+## Carinha
+o.o
