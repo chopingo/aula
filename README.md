@@ -9,5 +9,5 @@ este é um arquivo provisorio apenas para minhas aulas de programação.
 o--|==>
 
 ## Carinha
-O.o
-Uwu
+* O.o
+* Uwu
