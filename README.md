@@ -6,6 +6,6 @@ este é um arquivo provisorio apenas para minhas aulas de programação.
 # Personagens
 
 ## Carinha Certa
-\o
- I\
+\o/
+ I
 /\
